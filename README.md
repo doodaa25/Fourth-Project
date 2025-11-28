@@ -1,5 +1,5 @@
 # Project X 
-Group members: Y, Z
+Group members: Daved Tawdros, Jakhongir, Joranas Cigas, Chriswin Baiju
 
 This repository contains the materials for **Project X**.  
 - Presentation Slides: see [`slides/`](./slides/) folder  
