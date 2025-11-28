@@ -1,5 +1,5 @@
 # Project 4
-Group members: Daved Tawdros, Jakhongir, Joranas Cigas, Chriswin Baiju
+Group members: Daved Tawdros, Jakhongir Erkinov, Joranas Cigas, Chriswin Baiju
 
 This repository contains the materials for **Project X**.  
 - Presentation Slides: see [`slides/`](./slides/) folder  
